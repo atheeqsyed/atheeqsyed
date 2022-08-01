@@ -1,5 +1,4 @@
 <?php
-
 echo "<h1>The if Statement</h1>" . "<br>";
 /*if(condition){
     // Code to be executed
