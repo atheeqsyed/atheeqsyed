@@ -1,4 +1,5 @@
 <?php
+
 class Car1
 {
     public string $model;
