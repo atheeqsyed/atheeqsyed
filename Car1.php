@@ -18,7 +18,6 @@ class Car1
     {
         echo $this->price;
         return "regular price";
-
     }
 }
 
