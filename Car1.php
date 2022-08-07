@@ -1,11 +1,12 @@
 <?php
-
+//Learning
 class Car1
 {
     public string $model;
     public string $manufacturer_date;
     public int $price;
 
+    
     function __construct($model, $manufacturer_date, $price)
     {
         $this->model = $model;
