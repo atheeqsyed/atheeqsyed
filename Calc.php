@@ -23,7 +23,7 @@ switch ($operator) {
 
 <body>
     <form action="" method="post">
-        <h3>Add, Sub, Mul &amp; Div using PHP!</h3>
+        <h3>Addition, Subtraction, Multiplication &amp; Division using PHP!</h3>
         <hr />
         <P>
             <input type="number" name="val1" id="val1" value="<?php echo $val1; ?>" /> <b>Num 1</b>
