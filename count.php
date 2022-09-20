@@ -1,8 +1,8 @@
 
 <?php
-//count the words in string
-// Input : I LOVE YOU
-//Output : 3
+// Count the words in string
+// Input  : I LOVE YOU
+// Output : 3
 
 use LDAP\Result;
 
@@ -15,5 +15,4 @@ for ($i = 0; $i < strlen($var); $i++) {
 }
 $result += 1;
 echo $result;
-
 ?>
