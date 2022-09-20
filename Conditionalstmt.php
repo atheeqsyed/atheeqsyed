@@ -1,6 +1,6 @@
 <?php
 echo "<h1>The if Statement</h1>" . "<br>";
-/*if(condition){
+/*if(cond){
     // Code to be executed
 }*/
 $d = date("D");
@@ -8,7 +8,7 @@ if ($d == "Sat") {
     echo "Have a nice weekend!";
 }
 echo "<h1>The if...else Statement</h1>" . "<br>";
-/*if(condition){
+/*if(cond){
     // Code to be executed if condition is true
 } else{
     // Code to be executed if condition is false
@@ -23,9 +23,9 @@ if ($d == "Sat") {
 
 echo "<h1>The if...elseif...else Statement</h1>" . "<br>";
 /*
-if(condition1){
+if(cond1){
     // Code to be executed if condition1 is true
-} elseif(condition2){
+} elseif(cond2){
     // Code to be executed if the condition1 is false and condition2 is true
 } else{
     // Code to be executed if both condition1 and condition2 are false
