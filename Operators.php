@@ -52,7 +52,6 @@ var_dump($x > $y) . "<br>";   // Outputs: boolean false     True if $x is greate
 var_dump($x <= $y) . "<br>";  // Outputs: boolean true      True if $x is less than or equal to $y
 var_dump($x >= $y) . "<br>";  // Outputs: boolean false     True if $x is greater than or equal to $y
 
-
 echo "<br>";
 //Incrementing and Decrementing Operators
 echo "Increment and Decerment Operators";
@@ -71,7 +70,6 @@ echo $x . "<br>";   // Outputs: 9
 $x = 10;
 echo $x-- . "<br>"; // Outputs: 10     Returns $x, then decrements $x by one
 echo $x . "<br>";   // Outputs: 9
-
 
 //String Operators
 echo "<h1>String Operators</h1>";
