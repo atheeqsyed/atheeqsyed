@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-
 <head>
     <title>Simple Calculator Program in PHP - Tutorials Class</title>
 </head>
-
 <?php
 $first_num = $_POST['first_num'];
 $second_num = $_POST['second_num'];
 $operator = $_POST['operator'];
 $result = '';
+
+// Test calculator
 if (is_numeric($first_num) && is_numeric($second_num)) {
     switch ($operator) {
         case "Add":
@@ -24,9 +24,7 @@ if (is_numeric($first_num) && is_numeric($second_num)) {
             $result = $first_num / $second_num;
     }
 }
-
 ?>
-
 <body>
     <div id="page-wrap">
         <h1>PHP - Simple Calculator Program</h1>
@@ -47,5 +45,4 @@ if (is_numeric($first_num) && is_numeric($second_num)) {
         </form>
     </div>
 </body>
-
 </html>
