@@ -1,7 +1,7 @@
 <?php
 //Echo and Print
 
-//Difference between Echo and Print
+//Diff between Echo and Print
 //Echo outputs one or more expressions with no additional new lines or spaces. accepts multiple arguments.
 //Print only accepts single arguments and always return 1
 //$str = "Hello";
