@@ -1,4 +1,5 @@
 <?php
+// Reg expression
 $String = "Hi Welocme to Athiba's World!";
 $exp = preg_match("/World/i", $String, $ar);
 if ($exp) {
