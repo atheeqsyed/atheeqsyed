@@ -1,4 +1,5 @@
 <?php
+//
 class SuperCar extends Car2
 {
     public function __construct($model, $manufacturer_date, $price)
@@ -10,6 +11,5 @@ class SuperCar extends Car2
     {
         echo $this->price;
         return "spcl price";
-
     }
 }
