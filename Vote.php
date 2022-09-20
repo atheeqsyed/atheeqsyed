@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
@@ -16,8 +15,7 @@
     $result = $_POST['num'];
     echo "<br>";
     echo ($result < 18) ? 'Not Eligible' : 'Eligible';
-    // echo "<h3> Your Age is: $name </h3>";
+    // echo "<h3> Your Age is : $name </h3>";
     ?>
 </body>
-
 </html>
