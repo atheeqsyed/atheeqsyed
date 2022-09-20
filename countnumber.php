@@ -1,7 +1,7 @@
 <?php
-$num = 5;
-while ($num <= 15) {
-    echo "The numbers between 5 to 15 : " . $num;
+$no = 5;
+while ($no <= 15) {
+    echo "The numbers between 5 to 15 : " . $no;
     echo "<br>";
-    $num++;
+    $no++;
 }
