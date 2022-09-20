@@ -1,5 +1,5 @@
 <?php
-//Learning
+//Learn
 class Car1
 {
     public string $model;
