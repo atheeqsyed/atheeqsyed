@@ -6,22 +6,17 @@ Method1();
 Method2();
 //Method3();
 
-
-function mySqlConn($servername,
-                  $username, $password)
+function mySqlConn($servername,$username, $password)
 {
-
 // Connection
     $conn = new mysqli();
 
-// For checking if connection is
-// successful or not
+// For checking if connection is successful or not
     if ($conn->connect_error) {
         die("Connection failed: "
             . $conn->connect_error);
     }
     echo "Connected successfully";
-
 }
 
 function connMethod1()
@@ -55,5 +50,4 @@ function connMethod3()
     echo 'Connected successfully';
     mysqli_close($link);
 }
-
 ?>
