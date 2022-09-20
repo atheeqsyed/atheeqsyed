@@ -1,5 +1,5 @@
 <?php
-// Open a file
+// Open a csv file and read
 $fileopen = fopen("MagDevintquestions.csv", "r");
 // Fetching data from csv file row by row
 while (($data = fgetcsv($fileopen))) {
