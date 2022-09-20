@@ -1,6 +1,6 @@
 <html>
 <?php
-//check number is positive, negative
+//Check number is positive, negative
 //$num = $_POST["$check"];
 $num = 12;
 if ($num > 0) {
@@ -10,7 +10,5 @@ if ($num > 0) {
 } else {
     echo "Entered number is Zero :" . ($num);
 }
-
 ?>
-
 </html>
