@@ -1,7 +1,7 @@
 
-PHP Syntax::
+::PHP Syntax::
 
-<?php (Code) ?>
+<?php --Code-- ?>
 
 All PHP statements end with a semicolon ;
 
