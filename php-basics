@@ -4,12 +4,11 @@ PHP or Hypertext Pre-processor is a general purpose programming language written
 
 PHP files generally have extension .php and PHP code is generally written between `<?php ... ?>` tags. 
 A hello world program is:
-    
-```php
+
 <?php
     echo "hello world";
 ?>
-```
+
 
 
 Is PHP case sensitive?
