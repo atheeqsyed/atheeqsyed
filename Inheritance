@@ -1,0 +1,54 @@
+class vehicle{
+	string name;
+	$company ;
+
+__construct(  $company)
+{
+$this->company=$company;
+	
+}	function getPrice(){
+		return price;
+	}
+
+}
+
+
+class car extends vehicle {
+	
+string model;
+	function getPrice(){
+	parent::getPrice();
+	additoinal
+		return price;
+	}
+
+
+function getModel(){
+}
+
+}
+
+class Bus extends vehicle {
+	
+string seats;
+	function getPrice(){
+		return price;
+	}
+
+
+function getSeats(){
+}
+
+}
+
+
+
+
+
+
+$mycar =new Car();
+$mycar->company;
+$mycar->getPrice();
+$mybus= new Bus();
+$mybus->getPrice();
+
