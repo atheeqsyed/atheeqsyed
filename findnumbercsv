@@ -1,0 +1,18 @@
+<?php
+$path = "example.csv";
+$number = 7001;
+$file = fopen($path, "r");
+
+while (($data = fgetcsv($file)) !== FALSE) {
+    if (in_array($number, $data)) {
+        echo "Number searched: " . $number . "<br>";
+        echo "Found at row " . "\n" . implode(", ", $data) . "\n";
+        fclose($file);
+        exit;
+    }
+}
+
+echo "Could not find $number in the CSV file.";
+
+// Close the CSV file
+fclose($file);
