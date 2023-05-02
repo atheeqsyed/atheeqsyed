@@ -1,5 +1,5 @@
 <?php
-// Screen Logger
+//Screen Logger
 class screenLogger implements Logger
 {
     public function log()
