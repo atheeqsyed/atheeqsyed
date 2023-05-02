@@ -1,5 +1,5 @@
 <?php
-// File Logger
+//File Logger
 class fileLogger implements Logger
 {
     public function log()
