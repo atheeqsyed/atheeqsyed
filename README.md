@@ -1,40 +1,31 @@
-# Hi, I'm Atheeq R 👋
+# Hi, I'm Atheeq Syed R 👋
 
 ### Senior Application Engineer
 
 **Enterprise Applications | System Integration | Technical Operations**
 
-I’m a Senior Application Engineer based in **Dubai, UAE**, with **10+ years of experience** delivering enterprise applications, backend systems, digital commerce platforms and system integrations.
+I’m a Senior Application Engineer based in **Dubai, UAE**, with **10+ years of experience** delivering and supporting enterprise applications, backend systems, digital commerce platforms and system integrations.
 
-My experience combines software engineering with enterprise application ownership, production support and technical operations. I work across development, integration, deployment and operational support to keep business-critical systems reliable and connected.
-
-## About Me
-
-* 10+ years of enterprise software engineering and application-management experience
-* Experienced in retail, e-commerce, government, healthcare, transport and digital services
-* Strong background in enterprise applications, backend development and system integration
-* Experienced in production support, deployments, release management and incident resolution
-* Skilled in coordinating with business teams, technology vendors and external service providers
-* Based in Dubai and open to relevant opportunities across the UAE
+My experience combines software development with enterprise application ownership, API integration, production support and technical operations. I work across development, deployment, configuration and operational support to keep business-critical platforms reliable and connected.
 
 ## Core Expertise
 
 * Enterprise Application Management
 * System and API Integration
+* Backend Application Development
 * Technical Operations
 * Production Support
-* Backend Development
-* Digital Commerce Platforms
 * Release and Incident Management
 * Root Cause Analysis
-* Application Deployment
+* Digital Commerce and Retail Technology
+* Application Configuration and Deployment
 * Vendor and Stakeholder Coordination
 
 ## Technology Stack
 
 ### Backend and Integration
 
-`C#` `ASP.NET MVC` `.NET` `PHP` `Node.js` `JavaScript`
+`C#` `ASP.NET MVC` `.NET Framework` `PHP` `Node.js` `JavaScript`
 `REST APIs` `GraphQL` `Webhooks`
 
 ### Databases
@@ -46,9 +37,9 @@ My experience combines software engineering with enterprise application ownershi
 `Shopify Plus` `Magento 2 Commerce` `Liquid`
 `Revel POS` `Supy ERP` `IQ Fulfillment` `Xero`
 
-### Cloud, DevOps and Tools
+### DevOps and Tools
 
-`AWS` `Docker` `Linux` `Azure DevOps` `Git` `Postman`
+`Docker` `Linux` `Azure DevOps` `Git` `Postman` `Visual Studio`
 
 ### Analytics and Tracking
 
@@ -58,18 +49,16 @@ My experience combines software engineering with enterprise application ownershi
 
 ### Senior Application Engineer
 
-**Samha Trading Co. LLC – NDS Investments Group | Dubai, UAE**
+**Samha Trading Co. LLC - NDS Investments Group | Dubai, UAE**
 
-I support enterprise applications, system integrations and technical operations across retail, digital commerce and business-service platforms.
+I provide enterprise application engineering, system integration and technical operations support across retail, digital commerce and business-service platforms.
 
-My responsibilities include:
-
-* Managing business-critical enterprise applications
-* Maintaining integrations between commerce, POS, ERP, warehouse, finance, payment and logistics platforms
-* Developing and supporting REST API, GraphQL and webhook integrations
-* Managing deployments, releases, configurations and production environments
-* Troubleshooting production incidents and performing root cause analysis
-* Coordinating technical requirements with finance, operations, warehouse, marketing, store teams and external vendors
+* Manage business-critical enterprise applications and production environments
+* Maintain integrations across commerce, POS, ERP, warehouse, finance, payment and logistics platforms
+* Develop and support REST API, GraphQL and webhook-based integrations
+* Manage application deployments, releases, configurations and user access
+* Troubleshoot production incidents and perform root cause analysis
+* Coordinate technical requirements with business teams, technology vendors and service providers
 
 ### Senior Software Engineer
 
@@ -77,15 +66,17 @@ My responsibilities include:
 
 Developed and supported enterprise applications for government, healthcare, transport and infrastructure sectors across India, Singapore and Australia.
 
-Key technologies included:
-
-`C#` `ASP.NET MVC` `SQL Server` `REST APIs` `JavaScript` `HTML` `CSS`
+* Developed backend applications using C#, ASP.NET MVC and SQL Server
+* Built backend modules, stored procedures, reports and system integrations
+* Participated in requirement analysis, development, testing and deployment
+* Investigated application and database issues in production environments
+* Supported junior developers through code reviews, troubleshooting and knowledge sharing
 
 ## Selected Enterprise Projects
 
 ### Highway Traffic Management System
 
-Enterprise traffic and toll-road management solution developed using ASP.NET MVC, C#, SQL Server and REST APIs.
+Enterprise traffic and toll-road management solution developed using C#, ASP.NET MVC, SQL Server and REST APIs.
 
 ### Electronic Queue Management System
 
@@ -95,11 +86,15 @@ Healthcare queue and appointment-management platform implemented for ESIC hospit
 
 Enterprise infrastructure-maintenance platform delivered for a Singapore transport client.
 
+### Retail and Digital Commerce Integrations
+
+Supported integrations connecting Shopify, Magento, POS, ERP, warehouse, finance, payment gateways, delivery platforms and third-party services.
+
 ## Featured GitHub Projects
 
 ### [Calendar Booking System](https://github.com/atheeqsyed/Pixishoot)
 
-A calendar-based booking application designed to manage appointment scheduling and availability through a responsive user interface.
+A responsive calendar-based application for managing appointment scheduling and availability.
 
 ### [Interactive Portfolio](https://github.com/atheeqsyed/atheeq-portfolio)
 
@@ -107,7 +102,7 @@ My professional portfolio presenting my experience, technical capabilities and s
 
 ### [Magento Development](https://github.com/atheeqsyed/Magento)
 
-Magento development work covering platform customisation, feature enhancements and commerce functionality.
+Magento development work covering platform customisation, functionality enhancements and commerce implementation.
 
 ### [PHP Basics Playground](https://github.com/atheeqsyed/php-basics-playground)
 
@@ -115,11 +110,11 @@ A collection of PHP exercises covering programming fundamentals, object-oriented
 
 ## Currently Focusing On
 
-* Cloud architecture and AWS
-* Enterprise system integration
+* Enterprise application integration
 * Application reliability and production operations
 * Docker and CI/CD practices
-* Scalable backend and integration solutions
+* Cloud architecture fundamentals
+* Preparing for the AWS Certified Solutions Architect - Associate certification
 
 ## Connect With Me
 
