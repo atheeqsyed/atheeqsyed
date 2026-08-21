@@ -85,7 +85,7 @@ Supporting enterprise applications, system integrations and technical operations
 
 * Own and support business-critical applications and production environments
 * Maintain integrations across commerce, POS, ERP, warehouse, finance, payment and logistics platforms
-* Develop and support REST API, GraphQL and webhook-based integrations
+* Develop and support REST APIs, GraphQL and webhook-based integrations
 * Manage deployments, releases, platform configurations and user access
 * Investigate production incidents and implement permanent resolutions
 * Coordinate with internal teams, vendors and external technology providers
@@ -168,7 +168,7 @@ Currently strengthening my knowledge in:
 
 ### Let's Connect
 
-I’m open to **Senior Application Engineer, Enterprise Application, System Integration and Technical Operations opportunities** in the UAE.
+I’m open to **Senior Application Engineer and related Enterprise Applications, Systems Integration and Technical Operations roles** in the UAE.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atheeq_R-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atheeq-r)
 [![Portfolio](https://img.shields.io/badge/View_My-Portfolio-1F2937?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://atheeqsyed.github.io/atheeq-portfolio/)
